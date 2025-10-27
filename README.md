@@ -2,7 +2,7 @@
 
 **A Futuristic Fitness Tracking Platform**
 
-[Live Demo]()
+[Live Demo](https://fitnesstrackerabhinav.netlify.app/)
 
 *Feb 2025 – Mar 2025*
 

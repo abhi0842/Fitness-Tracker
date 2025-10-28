@@ -53,6 +53,7 @@ Fitness Tracker is a modern web application built using the MERN stack (MongoDB,
 ### 1. Clone the Repository
 
 ```bash
+git clone https://github.com/abhi0842/Fitness-Tracker/edit/main
 cd Fitness-Tracker
 ```
 
